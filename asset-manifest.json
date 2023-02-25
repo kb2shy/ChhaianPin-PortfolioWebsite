@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChhaianPin-PortfolioWebsite/static/css/main.e594e872.css",
+    "main.js": "/ChhaianPin-PortfolioWebsite/static/js/main.d66f9a58.js",
+    "index.html": "/ChhaianPin-PortfolioWebsite/index.html",
+    "main.e594e872.css.map": "/ChhaianPin-PortfolioWebsite/static/css/main.e594e872.css.map",
+    "main.d66f9a58.js.map": "/ChhaianPin-PortfolioWebsite/static/js/main.d66f9a58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e594e872.css",
+    "static/js/main.d66f9a58.js"
+  ]
+}
