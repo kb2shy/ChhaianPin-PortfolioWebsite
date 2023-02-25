@@ -1,23 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+
+import Header from "./sections/Header";
+import About from "./sections/About";
+import Objectives from "./sections/Objectives";
+import Skills from "./sections/Skills";
+import Experience from "./sections/Experience";
+import Contact from "./sections/Contact";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Header />
+      <About />
+      <Objectives />
+      <Skills />
+      <Experience />
+      <Contact />
+      <footer className="footer">© Chhaian Pin 2023</footer>
     </div>
   );
 }

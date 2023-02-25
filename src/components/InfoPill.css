@@ -1,0 +1,25 @@
+.info-container {
+    display: flex;
+    padding: 10px;
+    border-radius: 24px;
+    background-color: #fff;
+    color: #7e1bff;
+    margin-bottom: 12px;
+    font-size: 1.2rem;
+    width: 80%;
+    max-width: 600px;
+}
+
+.info-icon {
+    padding-right: 8px;
+}
+
+.info-text {
+    font-weight: 600;
+}
+
+@media (min-width: 600px) {
+    .info-container {
+        width: 90%;
+    }
+}
