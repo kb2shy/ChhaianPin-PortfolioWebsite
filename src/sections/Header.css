@@ -1,6 +1,7 @@
 .header-container {
     height: 100svh;
     align-items: center;
+    justify-content: center;
     background: linear-gradient(#251055,#7597de);
 }
 
