@@ -78,7 +78,7 @@ const Header = () => {
       ))}
       <img
         className="header-img"
-        src="images/chhaian-profile.jpg"
+        src="./images/chhaian-profile.jpg"
         alt="Chhaian's headshot profile"
       />
       <ButtonWithIcon

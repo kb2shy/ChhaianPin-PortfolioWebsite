@@ -1,8 +1,6 @@
 .header-container {
-    height: 100vh;
     height: 100svh;
     align-items: center;
-    justify-content: center;
     background: linear-gradient(#251055,#7597de);
 }
 
@@ -65,4 +63,11 @@
 .header-list-text {
     color: #251055;
     text-decoration: none;
+}
+
+@media (min-width: 740px) {
+    .header-container {
+        height: 100vh;
+        justify-content: center;
+    }
 }
