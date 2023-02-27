@@ -84,7 +84,7 @@ const Objectives = () => {
 
   return (
     <div className="container objectives-container" id="objectives">
-      <h2 className="h2-title">career objectives</h2>
+      <h2 className="h2-title purple">career objectives</h2>
       {transitions((style, index) => (
         <animated.div key={index} style={style} className="animation-container">
           <InfoPill

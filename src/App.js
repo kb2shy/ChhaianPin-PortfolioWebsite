@@ -12,8 +12,8 @@ function App() {
     <div>
       <Header />
       <About />
-      <Objectives />
       <Skills />
+      <Objectives />
       <Experience />
       <Contact />
       <footer className="footer">© Chhaian Pin 2023</footer>

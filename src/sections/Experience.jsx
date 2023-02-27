@@ -39,6 +39,18 @@ const HISTORY = [
       `Led a team of consultants to win first place in a company organized hackathon where we pitched and prototyped an in-car IoT device that monitored and alerted drivers of divided attention, accident prone areas, and navigational assistance.`,
     ],
   },
+  {
+    logo: "https://www.pngkey.com/png/detail/205-2050810_city-of-seattle-city-of-seattle-logo.png",
+    company: "City of Seattle",
+    position: "Legal Project Coordinator",
+    dates: "February 2005 to February 2019",
+    project: "Software Applications Analysis",
+    content: [
+      `Collected use-cases and created application work-flows to define user stories and business requirements for technical documentations.`,
+      `Collaborated with judicial teams to identify court records and documents for digital production and make accessible to the general public.`,
+      `Identified bottlenecks and repetitive court processes within the use of software and court applications and provided recommendations that reduced case loads by 25%.`,
+    ],
+  },
 ];
 
 const Experience = () => {

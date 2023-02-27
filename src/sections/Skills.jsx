@@ -20,16 +20,14 @@ const SKILLS = [
 const Skills = () => {
   return (
     <div className="container skills-container" id="skills">
-      <h2 className="h2-title margin-top-large" style={{ color: "#7e1bff" }}>
-        Top Programming Skills
-      </h2>
+      <h2 className="h2-title margin-top-large">Top Programming Skills</h2>
       <div className="skills-list">
         {SKILLS.map((skill, index) => (
           <InfoPill icon={faStar} content={<span>{skill}</span>} key={index} />
         ))}
       </div>
       <div className="desires-container">
-        <h3 className="h3-title">Technologies I would love to learn</h3>
+        <h3 className="h3-title purple">Technologies I would love to learn</h3>
         <InfoPill
           icon={faHeartCirclePlus}
           content={<span>Cloud technologies</span>}
