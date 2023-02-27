@@ -7,8 +7,8 @@ import ButtonWithIcon from "../components/ButtonWithIcon";
 
 const navList = [
   { section: "About me", href: "about" },
-  { section: "Career Objectives", href: "objectives" },
   { section: "Tech Skills", href: "skills" },
+  { section: "Career Objectives", href: "objectives" },
   { section: "Experience", href: "experience" },
   { section: "Contact me", href: "contact" },
 ];
