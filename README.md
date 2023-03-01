@@ -1,5 +1,6 @@
 # Chhaian Pin's Portfolio Website
 
+[Chhaian's GitHub Page](https://kb2shy.github.io/ChhaianPin-PortfolioWebsite/)
 Demonstration of frontend development skills in React and JavaScript to potential hiring managers and networking with other software engineers for projects.
 
 ## 🚀 About Me

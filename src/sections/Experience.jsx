@@ -40,7 +40,7 @@ const HISTORY = [
     ],
   },
   {
-    logo: "https://www.pngkey.com/png/detail/205-2050810_city-of-seattle-city-of-seattle-logo.png",
+    logo: "",
     company: "City of Seattle",
     position: "Legal Project Coordinator",
     dates: "February 2005 to February 2019",
