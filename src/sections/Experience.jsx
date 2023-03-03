@@ -7,7 +7,6 @@ const HISTORY = [
     logo: "./images/Wells_Fargo_Logo_(2020).svg",
     company: "Wells Fargo",
     position: "Software Engineer",
-    dates: "January 2021 to June 2022",
     project: "Electronic Document Services",
     content: [
       `Built a prototype Micro Frontend Application using React and Hooks that displayed both active and processed electronic DocuSign documents. Through the use of Wells Fargo's React Components library, I created a responsive and intuitive user interface that alerted users to critical and time-sensitive documents within their banking account.`,
@@ -19,7 +18,6 @@ const HISTORY = [
     logo: "./images/T-Mobile_New_Logo.png",
     company: "T-Mobile",
     position: "React Developer",
-    dates: "April 2020 to August 2020",
     project: "Regional Budget Analytics Application",
     content: [
       `Developed a mission-critical React and JavaScript business analytics tool that converted Excel spreadsheets into an interactive web application on the Azure cloud.`,
@@ -31,7 +29,6 @@ const HISTORY = [
     logo: "./images/jump-by-cognixia.png",
     company: "Cognixia",
     position: "Full Stack Web Developer",
-    dates: "February 2020 to June 2022",
     project: "Consultant Projects",
     content: [
       `Deployed to T-Mobile and Wells Fargo as a React Developer and Software Engineer to build web applications.`,
@@ -43,7 +40,6 @@ const HISTORY = [
     logo: "",
     company: "City of Seattle",
     position: "Legal Project Coordinator",
-    dates: "February 2005 to February 2019",
     project: "Software Applications Analysis",
     content: [
       `Collected use-cases and created application work-flows to define user stories and business requirements for technical documentations.`,
@@ -64,7 +60,6 @@ const Experience = () => {
           logo={job.logo}
           company={job.company}
           position={job.position}
-          dates={job.dates}
           project={job.project}
           content={job.content}
         />

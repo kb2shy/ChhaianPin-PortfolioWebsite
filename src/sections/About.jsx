@@ -50,8 +50,7 @@ const About = () => {
           <span>
             <strong>Professional summary:</strong>
             <br />
-            🟣 Changed careers from 14 years of public service to software
-            engineering
+            🟣 Changed careers from public service to software engineering
             <br />
             🟣 Gained 2 years of software engineering experience from T-Mobile
             and Wells Fargo building web applications using React, JavaScript,
